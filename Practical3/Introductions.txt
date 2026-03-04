@@ -1,1 +1,4 @@
-Hello, my name is wangdawei
+Hello, my name is DaweiWang.
+I like sleeping and eating delicious food.
+I am enjoying taking IBI1 in person. 
+I am happy that I can push my repo from Visual Studio Code to GitHub
