@@ -15,6 +15,6 @@ for i in range(len(seq) - 2):
 
                 if len(current_orf) > len(largest_orf):
                     largest_orf = current_orf
-                    break
+                break
 print("Largest ORF:", largest_orf)
 print("Length:", len(largest_orf))
