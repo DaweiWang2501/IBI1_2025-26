@@ -1,0 +1,9 @@
+Reflection on Practical 9
+
+This practical helped me understand how infectious disease models can be turned into working Python programs. The first SIR model was the easiest part because it only required tracking three numbers: susceptible, infected, and recovered. Writing the time loop made me think more carefully about how probability works in code.
+
+The vaccination task was interesting because it showed clearly how increasing vaccination reduces the size of the infected peak. It made the idea of herd immunity much easier to understand than just reading about it in theory.
+
+The spatial SIR model was the hardest part because I had to think about coordinates, neighbours, and boundary cases at the edges of the grid. However, it was also the most enjoyable part because the plots make the spread of infection very visual.
+
+The most important thing I learned is that a probabilistic model can give slightly different results each time, but still show the same general pattern. I also learned how to use numpy arrays and matplotlib more confidently for simulations.
