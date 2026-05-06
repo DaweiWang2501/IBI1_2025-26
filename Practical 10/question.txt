@@ -1,0 +1,11 @@
+Question:
+What was the distribution of DALYs across all countries in 2019?
+
+Line number:
+The code to answer this question starts at the section labelled "Extra question" in dalys.py.
+
+Result:
+The histogram shows how DALYs values were distributed across countries in 2019. 
+Most countries had DALYs within a middle range, while a smaller number of countries had very high or very low DALYs. 
+The summary statistics show the minimum, maximum, mean, standard deviation and quartiles of DALYs in 2019. 
+This helps us understand not only which countries were extreme cases, but also the overall pattern across countries.
