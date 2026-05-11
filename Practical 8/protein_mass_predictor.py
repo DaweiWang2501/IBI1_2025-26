@@ -1,25 +1,25 @@
 # Average residue masses in atomic mass units (amu)
 AMINO_ACID_MASSES = {
-    'A': 89.09,   # Alanine
-    'R': 174.20,  # Arginine
-    'N': 132.12,  # Asparagine
-    'D': 133.10,  # Aspartic acid
-    'C': 121.15,  # Cysteine
-    'E': 147.13,  # Glutamic acid
-    'Q': 146.15,  # Glutamine
-    'G': 75.07,   # Glycine
-    'H': 155.16,  # Histidine
-    'I': 131.17,  # Isoleucine
-    'L': 131.17,  # Leucine
-    'K': 146.19,  # Lysine
-    'M': 149.21,  # Methionine
-    'F': 165.19,  # Phenylalanine
-    'P': 115.13,  # Proline
-    'S': 105.09,  # Serine
-    'T': 119.12,  # Threonine
-    'W': 204.23,  # Tryptophan
-    'Y': 181.19,  # Tyrosine
-    'V': 117.15   # Valine
+    'G': 57.02,
+    'A': 71.04,
+    'S': 87.03,
+    'P': 97.05,
+    'V': 99.07,
+    'T': 101.05,
+    'C': 103.01,
+    'I': 113.08,
+    'L': 113.08,
+    'N': 114.04,
+    'D': 115.03,
+    'Q': 128.06,
+    'K': 128.09,
+    'E': 129.04,
+    'M': 131.04,
+    'H': 137.06,
+    'F': 147.07,
+    'R': 156.10,
+    'Y': 163.06,
+    'W': 186.08
 }
 
 
