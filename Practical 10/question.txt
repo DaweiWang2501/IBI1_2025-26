@@ -2,7 +2,7 @@ Question:
 What was the distribution of DALYs across all countries in 2019?
 
 Line number:
-The code to answer this question starts at the section labelled "Extra question" in dalys.py.
+The code to answer this question starts at line 65 in dalys.py.
 
 Result:
 The histogram shows how DALYs values were distributed across countries in 2019. 
