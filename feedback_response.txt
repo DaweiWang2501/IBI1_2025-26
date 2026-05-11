@@ -1,0 +1,41 @@
+Feedback response
+
+GitHub ID: DaweiWang2501
+
+This file summarises how I responded to the formative feedback for Weeks 3-5 and what I changed before the code portfolio submission.
+
+Week 3: Git and GitHub / GitHub Pages
+
+Feedback received:
+- The original thingsIlike.txt file was not edited.
+- Commit messages for Week 3 were not informative enough.
+
+Response and changes made:
+- I corrected the Practical3/thingsIlike.txt file so that the required file itself contains my own list of things I like.
+- I made sure the correctly named file is thingsIlike.txt, not a duplicate or incorrectly named version.
+- I checked that Practical3/Introductions.txt contains information about myself.
+- I checked that Practical3/Reflection.txt contains my reflection on the practical.
+- I updated my Week 3 work with clearer commit messages that describe the changes made, rather than using vague commit messages.
+
+Week 4: Variables, Booleans and Loops
+
+Response and changes made:
+- I reviewed variables.py and checked that variables d and e are created from the Scotland population values.
+- I added/checked code comparing d and e, and included a comment explaining that population growth is decelerating.
+- I checked that the Boolean variable W correctly represents X or Y and that the truth table comment matches the code.
+- I checked infection.py runs, prints infected students for each day, and reports the number of days taken to infect the whole class.
+- I checked mystery_code.py includes an answer and comments explaining what the code does.
+- I checked creatine_clearance.py calculates CrCl and reports errors for invalid input values.
+
+Week 5: Working with Numbers
+
+Response and changes made:
+- I reviewed the gene expression task and checked that the dictionary is printed, MYC is added, a selected gene can be queried, and the average expression value is calculated.
+- I checked that the gene expression bar chart is labelled.
+- I reviewed the heart rate task and checked that the number of patients, mean heart rate, category counts, and largest category are printed.
+- I improved/checked the heart rate pie chart labels so that the chart clearly shows the distribution of categories.
+- I reviewed the population growth task and checked that percentage changes are calculated, sorted from largest increase to largest decrease, and plotted with clear labels.
+
+Overall reflection
+
+The main feedback I needed to respond to was that some Week 3 work had not been edited in the correct file and that some commit messages were not descriptive enough. I corrected the required file and made sure my later changes were committed with clearer messages. I also reviewed my Week 4 and Week 5 scripts to make sure they run correctly and match the portfolio requirements.
