@@ -13,7 +13,26 @@ Response and changes made:
 
 Week 4 and Week 5 have no preblems, so I didn't change them.
 
+Week 7:
+I have included my Week 7 work in the repository. I checked that the required files are present and that the work matches the practical instructions.
+
+Week 8:
+I corrected the amino acid residue mass values in protein_mass_predictor.py so that the predicted mass matches the values required in the practical. 
+I also checked that invalid amino acids return an error message. 
+The nutrition tracker includes a food_item class and a function that calculates total calories, protein, carbohydrates and fat, with warnings for high calorie or fat intake.
+
+Week 9:
+I completed the SIR model, the vaccination SIR model, the spatial SIR model and the reflection file. 
+I checked that the plots are clearly labelled and that the stochastic models can give different results when run multiple times. 
+I also checked that the spatial model shows infection spreading through neighbours and infected cells recovering.
+
+Week 10:
+I completed the DALYs data analysis using pandas and matplotlib. 
+I checked that dalys.py imports the CSV file, shows the requested Year and DALYs columns, identifies the Zimbabwe years, finds the maximum and minimum DALYs countries in 2019, and includes labelled plots. 
+I also included question.txt with my additional question, the line number where the code starts, and a short discussion of the result.
+
 Overall reflection:
 The main feedback I needed to respond to was that some Week 3 work had not been edited in the correct file and that some commit messages were not descriptive enough. 
 I corrected the required file and made sure my later changes were committed with clearer messages. 
 I also reviewed my Week 4 and Week 5 scripts to make sure they run correctly and match the portfolio requirements.
+For Weeks 7-10, I checked that the required files are present, the code runs, and the outputs match the practical instructions.
